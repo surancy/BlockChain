@@ -1,5 +1,5 @@
 # Blockchain Project
-A static blockchain project that implements the funtionality of blockchain. User chooses from an interactive block chain menu from 0 – 6 to simulate a blockchain operation, illustrating several important nonfunctional characteristics of distributed systems. Some extra thing done based on this stand-alone blockchain: build web services to enhance interoperability, considering various styles of API design. A stand-alone blockchain and remote clients that interact with a blockchain API. E.x. SOAP based API, single argument style JAX-WS web service, resource based or REST web service.
+A static blockchain project that implements the funtionality of blockchain. User chooses from an interactive block chain menu from 0 – 6 to simulate a blockchain operation, illustrating several important nonfunctional characteristics of distributed systems. Some extra things done based on this stand-alone blockchain: build web services to enhance interoperability, considering various styles of API design. A stand-alone blockchain and remote clients that interact with a blockchain API. E.x. SOAP based API, single argument style JAX-WS web service, resource based or REST web service.
 
 run:
 > MENU
