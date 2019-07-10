@@ -18,5 +18,5 @@ Some basic functions:
 - Can corrupt the chain.
 - Can be check to see if data in it is valid and unchanged (loop the entire blockchain).
 
-More functional and non-functional are explained in class documentations. Enjoy!
+More functional and non-functional details are explained in class documentations. Enjoy!
 <\p>
