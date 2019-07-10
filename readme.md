@@ -13,10 +13,10 @@ run:
 ===
 
 Some basic functions:
-> Is made up of blocks that store data. 
-> Has a digital signature that chains your blocks together.
-> Requires proof of work mining to validate new blocks.
-> Can corrupt the chain
-> Can be check to see if data in it is valid and unchanged.
+- Is made up of blocks that store data (transaction text, timestamp). 
+- Has a digital signature that chains your blocks together.
+- Requires proof of work mining to validate new blocks (difficulty entered by user).
+- Can corrupt the chain.
+- Can be check to see if data in it is valid and unchanged (loop the entire blockchain).
 
-So we can add a transaction to the blockchain with the difficulty entered by user, and transaction entered by user. The transaction text and timestamp are calculated into hash with the difficulty specified. Then it's time to mine the block! We can also verify the blockchain by looping through blockchain to check hashes.
+More functional and non-functional are explained in class documentations. Enjoy!
